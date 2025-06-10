@@ -32,3 +32,33 @@ cd contact-book
 
 # Run the script
 python contact_book.py
+
+ ```
+
+
+## 🧪 Sample Output
+
+```bash
+Welcome to Contact Book 📒
+1. Add Contact
+2. View All Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Enter your choice:
+ ```
+
+## 📁 Files Included
+- contact_book.py – Main Python code for the CLI contact book
+- contacts.txt – Text file to store saved contacts
+- README.md – Project information
+
+## 🙋‍♂️ Author
+- Sagar Gurav
+ 📫 work.sagargurav1812@gmail.com
+- 🌐 GitHub Profile
+
+
+
+
