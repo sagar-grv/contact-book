@@ -16,7 +16,7 @@ A simple Python CLI (Command Line Interface) **Contact Book** application that a
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3
+- **Language:** Python3
 - **Concepts Used:** File Handling, Functions, CLI
 
 ---
